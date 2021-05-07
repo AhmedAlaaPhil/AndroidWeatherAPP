@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string-array name="Cities">
+        <item>Current Location</item>
+        <item>Alex</item>
+        <item>Cairo</item>
+        <item>Luxor</item>
+        <item>Giza</item>
+        <item>Aswan</item>
+        <item>Asyut</item>
+    </string-array>
+</resources>
